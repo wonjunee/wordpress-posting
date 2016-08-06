@@ -1,0 +1,394 @@
+status: 200
+content-length: 29644
+content-location: https://wonjunee.wordpress.com/?json=get_recent_posts&dev=0
+strict-transport-security: max-age=15552000
+vary: Accept-Encoding
+x-ac: 1.dca _dca
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+link: <http://wp.me/7MJz0>; rel=shortlink
+date: Sat, 06 Aug 2016 20:36:52 GMT
+x-hacker: If you're reading this,
+ you should visit automattic.com/jobs and apply to join the fun,
+ mention this header.
+content-type: text/html; charset=UTF-8
+-varied-accept-encoding: gzip, deflate
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>wonjunee</title>
+<link rel="alternate" type="application/rss+xml" title="wonjunee &raquo; Feed" href="https://wonjunee.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="wonjunee &raquo; Comments Feed" href="https://wonjunee.wordpress.com/comments/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/_static/??-eJyFUe1uwzAIfKF5VpUp/VXtWRKHOrTGWIHIy9uPfkvb5P1Bh7gT3OFrcYGzQlZPqytpjZjF1xKYnBAm2H5070Hkzf8tS3gG8SfQMoSzu3YteuAFnM5AIDamMqjXapxN8EsB8i/tmDi+lnGMMPGq7sgpcfUVpwjaWoj5iBl1e4IWWWZeNPBkjozlJaHBmat7Dv71djdlDIIJB0hmNTcvpNI/VBc4W47NCG+vGceygIizSrjSPdOL7pMOu4++2/X7ru9O3+kYus4=' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://s0.wp.com/_static/??/wp-content/mu-plugins/genericons/genericons/genericons.css,/wp-content/themes/pub/twentysixteen/style.css?m=1463090674j' type='text/css' media='all' />
+<!--[if lt IE 10]>
+<link rel='stylesheet' id='twentysixteen-ie-css'  href='https://s0.wp.com/wp-content/themes/pub/twentysixteen/css/ie.css?m=1448353951h&#038;ver=20151123' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentysixteen-ie8-css'  href='https://s0.wp.com/wp-content/themes/pub/twentysixteen/css/ie8.css?m=1448353951h&#038;ver=20151123' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentysixteen-ie7-css'  href='https://s0.wp.com/wp-content/themes/pub/twentysixteen/css/ie7.css?m=1448353951h&#038;ver=20151123' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-8' href='https://s2.wp.com/_static/??-eJx9j90KwjAMRl/IGgYV9UJ8lq1kXUablDVj29tbnfiDuJvwfeEcSGBKxgkrsoJ2GDFDGhvQqSyWTLMiMricIesS0EzJSdyXvoMPMY4mhdETZ8AoPa1zxQhYlAqZX2HL9ygmiKuVhL+KaUNNw5Y6YBPEl+gfB7/rlkTcEpMuf5//kZ9gZ8EHaepwB67xUtnD2drTsbL9DVHUf5U=' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LoggedOutFollow = {"invalid_email":"Your subscription did not succeed, please try again with a valid email address."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyFkOsKwjAMhV/Irnib+kN8ll2yLrM3l9SqT28HE1GnQiAh+XISjoxeoK10qIFkl+IUoL+OKetoJn8BwqDqC4bMoH3AlbMMlgfWuBI1iEDQFyr1klDjJjjviA0QJWhi+voS2jNC/It1wL6ojqIHwtuHaqmdEl4HhZZkqhXULrBonNYuyoi1An7f4RbSj9KHUnJMjSvhhQHscLtlo9dTbpF/GvPd5pE6mP18lefrxXK32XZ3p96ZiA=='></script>
+<link rel='stylesheet' id='all-css-0' href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1377793621h' type='text/css' media='all' />
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='highlander-comments-ie7-css'  href='https://s1.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1351637563h&#038;ver=20110606' type='text/css' media='all' />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://wonjunee.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+<link rel='shortlink' href='http://wp.me/7MJz0' />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="wonjunee" />
+<meta property="og:url" content="https://wonjunee.wordpress.com/" />
+<meta property="og:site_name" content="wonjunee" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta property="fb:app_id" content="249643311490" />
+<link rel="shortcut icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s2.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon-precomposed" href="https://s0.wp.com/i/webclip.png" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://wonjunee.wordpress.com/osd.xml" title="wonjunee" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<meta name="application-name" content="wonjunee" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=Subscribe;action-uri=https://wonjunee.wordpress.com/feed/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=https://s2.wp.com/i/favicon.ico" /><meta name="title" content="wonjunee on WordPress.com" />
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+</head>
+
+<body class="home blog mp6 customizer-styles-applied hfeed highlander-enabled highlander-light infinite-scroll neverending">
+<div id="page" class="site">
+	<div class="site-inner">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-header-main">
+				<div class="site-branding">
+					
+											<h1 class="site-title"><a href="https://wonjunee.wordpress.com/" rel="home">wonjunee</a></h1>
+									</div><!-- .site-branding -->
+
+									<button id="menu-toggle" class="menu-toggle">Menu</button>
+
+					<div id="site-header-menu" class="site-header-menu">
+													<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+								<div class="menu-primary-container"><ul id="menu-primary" class="primary-menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/">Home</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9"><a href="https://wonjunee.wordpress.com/about/">About</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="https://wonjunee.wordpress.com/contact/">Contact</a></li>
+</ul></div>							</nav><!-- .main-navigation -->
+						
+													<nav id="social-navigation" class="social-navigation" role="navigation" aria-label="Social Links Menu">
+								<div class="menu-social-links-container"><ul id="menu-social-links" class="social-links-menu"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="https://twitter.com/"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://www.facebook.com/"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-13" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://plus.google.com"><span class="screen-reader-text">Google+</span></a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://github.com"><span class="screen-reader-text">GitHub</span></a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="http://wordpress.com"><span class="screen-reader-text">WordPress.com</span></a></li>
+</ul></div>							</nav><!-- .social-navigation -->
+											</div><!-- .site-header-menu -->
+							</div><!-- .site-header-main -->
+
+					</header><!-- .site-header -->
+
+		<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+		
+			
+			
+<article id="post-4" class="post-4 post type-post status-publish format-standard sticky hentry category-uncategorized">
+	<header class="entry-header">
+					<span class="sticky-post">Featured</span>
+		
+		<h2 class="entry-title"><a href="https://wonjunee.wordpress.com/2016/08/06/first-blog-post/" rel="bookmark">First blog post</a></h2>	</header><!-- .entry-header -->
+
+				<div class="entry-summary">
+				<p>This is the post excerpt.</p>
+			</div><!-- .entry-summary -->
+		
+	
+	<div class="entry-content">
+		<p>This is your very first post. Click the Edit link to modify or delete it, or <a href="https://wordpress.com/post">start a new post</a>. If you like, use this post to tell readers why you started this blog and what you plan to do with it.</p>
+<p><img class="wp-image-7 size-full" src="https://twentysixteendemo.files.wordpress.com/2015/11/post.png?w=840" alt="post"   /></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="byline"><span class="author vcard"><img alt='' src='https://0.gravatar.com/avatar/390c8f4e792d804c0460ee84443b9175?s=49&#038;d=identicon&#038;r=G' class='avatar avatar-49' height='49' width='49' /><span class="screen-reader-text">Author </span> <a class="url fn n" href="https://wonjunee.wordpress.com/author/wonjunee/">wonjunee</a></span></span><span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="https://wonjunee.wordpress.com/2016/08/06/first-blog-post/" rel="bookmark"><time class="entry-date published" datetime="2016-08-06T20:21:02+00:00">August 6, 2016</time><time class="updated" datetime="2016-08-06T20:26:04+00:00">August 6, 2016</time></a></span><span class="comments-link"><a href="https://wonjunee.wordpress.com/2016/08/06/first-blog-post/#respond">Leave a comment<span class="screen-reader-text"> on First blog post</span></a></span>			</footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	<aside id="secondary" class="sidebar widget-area" role="complementary">
+		<section id="text-1" class="widget widget_text"><h2 class="widget-title">Text Widget</h2>			<div class="textwidget">This is a text widget. The Text Widget allows you to add text or HTML to your sidebar. You can use a text widget to display text, links, images, HTML, or a combination of these. Edit them in the Widget section of the <a href="https://wordpress.com/customize/">Customizer</a>.</div>
+		</section><section id="search-1" class="widget widget_search">
+<form role="search" method="get" class="search-form" action="https://wonjunee.wordpress.com/">
+	<label>
+		<span class="screen-reader-text">Search for:</span>
+		<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+	</label>
+	<button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
+</form>
+</section>	</aside><!-- .sidebar .widget-area -->
+
+		</div><!-- .site-content -->
+
+		<footer id="colophon" class="site-footer" role="contentinfo">
+							<nav class="main-navigation" role="navigation" aria-label="Footer Primary Menu">
+					<div class="menu-primary-container"><ul id="menu-primary-1" class="primary-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9"><a href="https://wonjunee.wordpress.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="https://wonjunee.wordpress.com/contact/">Contact</a></li>
+</ul></div>				</nav><!-- .main-navigation -->
+			
+							<nav class="social-navigation" role="navigation" aria-label="Footer Social Links Menu">
+					<div class="menu-social-links-container"><ul id="menu-social-links-1" class="social-links-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="https://twitter.com/"><span class="screen-reader-text">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://www.facebook.com/"><span class="screen-reader-text">Facebook</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13"><a href="http://plus.google.com"><span class="screen-reader-text">Google+</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://github.com"><span class="screen-reader-text">GitHub</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="http://wordpress.com"><span class="screen-reader-text">WordPress.com</span></a></li>
+</ul></div>				</nav><!-- .social-navigation -->
+			
+			<div class="site-info">
+								<span class="site-title"><a href="https://wonjunee.wordpress.com/" rel="home">wonjunee</a></span>
+				<a href="https://wordpress.com/?ref=footer_blog">Blog at WordPress.com.</a>
+			</div><!-- .site-info -->
+		</footer><!-- .site-footer -->
+	</div><!-- .site-inner -->
+</div><!-- .site -->
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = {"settings":{"id":"main","ajaxurl":"https:\/\/wonjunee.wordpress.com\/?infinity=scrolling","type":"scroll","wrapper":true,"wrapper_class":"infinite-wrap","footer":"content","click_handle":"1","text":"Older posts","totop":"Scroll back to top","currentday":"06.08.16","order":"DESC","scripts":[],"styles":[],"google_analytics":false,"offset":0,"history":{"host":"wonjunee.wordpress.com","path":"\/page\/%d\/","use_trailing_slashes":true,"parameters":"?json=get_recent_posts&dev=0"},"query_args":{"error":"","m":"","p":0,"post_parent":"","subpost":"","subpost_id":"","attachment":"","attachment_id":0,"name":"","static":"","pagename":"","page_id":0,"second":"","minute":"","hour":"","day":0,"monthnum":0,"year":0,"w":0,"category_name":"","tag":"","cat":"","tag_id":"","author":"","author_name":"","feed":"","tb":"","paged":0,"meta_key":"","meta_value":"","preview":"","s":"","sentence":"","title":"","fields":"","menu_order":"","embed":"","category__in":[],"category__not_in":[],"category__and":[],"post__in":[],"post__not_in":[],"post_name__in":[],"tag__in":[],"tag__not_in":[],"tag__and":[],"tag_slug__in":[],"tag_slug__and":[],"post_parent__in":[],"post_parent__not_in":[],"author__in":[],"author__not_in":[],"posts_per_page":7,"ignore_sticky_posts":false,"suppress_filters":false,"cache_results":false,"update_post_term_cache":true,"update_post_meta_cache":true,"post_type":"","nopaging":false,"comments_per_page":"50","no_found_rows":false,"order":"DESC"},"last_post_date":"2016-08-06 20:21:02","stats":"blog=115049246&v=wpcom&tz=0&user_id=0&subd=wonjunee&x_pagetype=infinite"}};
+		//]]>
+		</script>
+		<!-- wpcom_wp_footer -->
+<script type='text/javascript' src='//0.gravatar.com/js/gprofiles.js?ver=201631y'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	<div class="grofile-hash-map-390c8f4e792d804c0460ee84443b9175">
+	</div>
+	</div>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"Posting Comment\u2026","postCommentText":"Post Comment","connectingToText":"Connecting to %s","commentingAsText":"%1$s: You are commenting using your %2$s account.","logoutText":"Log Out","loginText":"Log In","connectURL":"https:\/\/wonjunee.wordpress.com\/public.api\/connect\/?action=request","logoutURL":"https:\/\/wonjunee.wordpress.com\/wp-login.php?action=logout&_wpnonce=e79f41af28","homeURL":"https:\/\/wonjunee.wordpress.com\/","postID":"4","gravDefault":"identicon","enterACommentError":"Please enter a comment","enterEmailError":"Please enter your email address here","invalidEmailError":"Invalid email address","enterAuthorError":"Please enter your name here","gravatarFromEmail":"This picture will show whenever you leave a comment. Click to customize it.","logInToExternalAccount":"Log in to use details from one of these accounts.","change":"Change","changeAccount":"Change Account","comment_registration":"0","userIsLoggedIn":"","isJetpack":"0","text_direction":"ltr"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??/wp-content/js/jquery/jquery.autoresize.js,/wp-content/mu-plugins/highlander-comments/script.js?m=1462457903j'></script>
+		<div id="infinite-footer">
+			<div class="container">
+				<div class="blog-info">
+					<a id="infinity-blog-title" href="https://wonjunee.wordpress.com/" rel="home">
+						wonjunee					</a>
+				</div>
+				<div class="blog-credits">
+					<a href="https://wordpress.com/?ref=footer_website">Create a free website or blog at WordPress.com.</a> 				</div>
+			</div>
+		</div><!-- #infinite-footer -->
+		
+	<div id="bit" class="loggedout-follow-normal">
+		<a class="bsub" href="javascript:void(0)"><span id='bsub-text'>Follow</span></a>
+		<div id="bitsubscribe">
+
+					<h3><label for="loggedout-follow-field">Follow &ldquo;wonjunee&rdquo;</label></h3>
+
+			<form action="https://subscribe.wordpress.com" method="post" accept-charset="utf-8" id="loggedout-follow">
+			<p>Get every new post delivered to your Inbox.</p>
+
+			<p id="loggedout-follow-error" style="display: none;"></p>
+
+			
+			<p><input type="email" name="email" placeholder="Enter your email address" id="loggedout-follow-field"/></p>
+
+			<input type="hidden" name="action" value="subscribe"/>
+			<input type="hidden" name="blog_id" value="115049246"/>
+			<input type="hidden" name="source" value="https://wonjunee.wordpress.com/?json=get_recent_posts&amp;dev=0"/>
+			<input type="hidden" name="sub-type" value="loggedout-follow"/>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="0d13aa96b1" /><input type="hidden" name="_wp_http_referer" value="/?json=get_recent_posts&amp;dev=0" />
+			<p id='bsub-subscribe-button'><input type="submit" value="Sign me up" /></p>
+			</form>
+					<div id='bsub-credit'><a href="https://wordpress.com/?ref=lof">Build a website with WordPress.com</a></div>
+		</div><!-- #bitsubscribe -->
+	</div><!-- #bit -->
+
+<script type='text/javascript'>/*<![CDATA[*/if(typeof(addLoadEvent)!='undefined'){addLoadEvent(function(){if(top==self){i=document.createElement('img');i.src='https://botd2.wordpress.com/botd.gif?blog=115049246&post=0&lang=en&date=1470514862&ip=70.175.224.34&url=https://wonjunee.wordpress.com/';i.id='botd2';i.style.width='0px';i.style.height='0px';i.style.overflow='hidden';document.body.appendChild(i);}});}/*]]>*/</script>
+
+	<div id="carousel-reblog-box">
+		<form action="" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="Add your thoughts here... (optional)"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">Post to</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="" class="cancel">Cancel</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="Reblog Post" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="115049246" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://wonjunee.wordpress.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="wonjunee" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="996c0e00b1" /><input type="hidden" name="_wp_http_referer" value="/?json=get_recent_posts&amp;dev=0" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<link rel='stylesheet' id='all-css-0' href='https://s0.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel.css?m=1458924076h' type='text/css' media='all' />
+<!--[if lte IE 8]>
+<link rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://s1.wp.com/wp-content/mu-plugins/carousel/jetpack-carousel-ie8fix.css?m=1412618825h&#038;ver=20121024' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='all-css-2' href='https://s1.wp.com/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1443731146h' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackSlideshowSettings = {"spinner":"https:\/\/s1.wp.com\/wp-content\/mu-plugins\/shortcodes\/img\/slideshow-loader.gif","blog_id":"115049246","blog_subdomain":"wonjunee","user_id":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var JetpackEmojiSettings = {"base_url":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/emoji\/twemoji\/"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/wonjunee.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"d458791f90","display_exif":"1","display_geo":"1","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/wonjunee.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fwonjunee.wordpress.com%2F2016%2F08%2F06%2Ffirst-blog-post%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"Reblog","reblogged":"Reblogged","reblog_add_thoughts":"Add your thoughts here... (optional)","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=115049246&v=wpcom&tz=0&user_id=0&subd=wonjunee","is_public":"1","reblog_enabled":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://s1.wp.com/_static/??-eJyNkNFOwzAMRX+ILIxVghfEt3SuQ52mTqiddf17QqVWY0hhT3Fu7rFvbOdkILIiq/ViO7wQYLoevDzZm6cxmxTyJ7HYQAOK/cqYsW+5CzhVzMSOmHTZi4pX+jgpxK50L0l8mTAtB1gg4MOQBCpVH2ez6/es9jgWc8pnq3MRFqGrIvKKD5RMIB6Mi5DFOPqziBruMoNSZKnkxTF6+kFvz3/9HjW1MJjH3L9cxBDytp7ZxbNH0PsWG38p64u2FUFdgfWeJpTal6CdYhYMe8pNKMzH+H5sXp+bU3N8e/Hf7Czq9g=='></script>
+<script type='text/javascript' src='https://platform.twitter.com/widgets.js?ver=20111117'></script>
+<script type='text/javascript' src='https://s0.wp.com/_static/??-eJyVy7EOQEAMANAfUnViYBDfgmsupepyivh7VpMY3/DwjDCuaqSGyw5R9sC6oZ1sRgkG6cd54OQhMqHSQYnUs4Z82jL8c+P3YyEPoRehdL31rG5pXVXUTVO70k03DU5D1g=='></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script>	<script type="text/javascript">
+	var skimlinks_pub_id = "725X584219"
+	var skimlinks_sitename = "wonjunee.wordpress.com";
+	</script>
+	<script type="text/javascript" src="https://s.skimresources.com/js/725X1342.skimlinks.js"></script><script type="text/javascript">
+			jQuery.extend( infiniteScroll.settings.scripts, ["jquery","jquery-core","jquery-migrate","mobile-useragent-info","postmessage","jquery_inview","jetpack_resize","loggedout-subscribe","twentysixteen-html5","spin","jquery.spin","grofiles-cards","wpgroho","jquery.autoresize","highlander-comments","devicepx","jetpack_likes_queuehandler","the-neverending-homepage","jquery-cycle","jetpack-slideshow","twentysixteen-skip-link-focus-fix","twentysixteen-script","twemoji","jetpack-emoji","jetpack-emoji-init","swfobject","videopress","jetpack-carousel","twitter-widgets","twitter-widgets-infinity","twitter-widgets-pending","tiled-gallery"] );
+			jQuery.extend( infiniteScroll.settings.styles, ["wpcom-smileys","jetpack_likes","twentysixteen-jetpack","loggedout-subscribe","the-neverending-homepage","jetpack-slideshow","wpcom-core-compat-playlist-styles","mp6hacks","wpcom-bbpress2-staff-css","genericons","twentysixteen-style","twentysixteen-wpcom-style","jetpack-emoji-css","noticons","geo-location-flair","reblogging","infinity-twentysixteen","h4-global","twentysixteen-fonts","twentysixteen-ie","twentysixteen-ie8","twentysixteen-ie7","highlander-comments","highlander-comments-ie7","jetpack-carousel","tiled-gallery","jetpack-carousel-ie8fix"] );
+		</script>		<script>
+			var _comscore = _comscore || [];
+			_comscore.push({
+				c1: "2",
+				c2: "7518284"
+			});
+			(function() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<p class="robots-nocontent"><img src="https://sb.scorecardresearch.com/p?c1=2&c2=7518284&c3=&c4=&c5=&c6=&c15=&cv=2.0&cj=1" alt="" style="display:none;" width="1" height="1" /></p>
+		</noscript><script src="//stats.wp.com/w.js?53" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'115049246','blog_tz':'0','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+_stq.push(['view', {'blog':'115049246','v':'wpcom','tz':'0','user_id':'0','subd':'wonjunee'}]);
+_stq.push(['extra', {'crypt':'UE40eW5QN0p8M2Y/RE1LVmwrVi5vQS5fVFtfdHBbPyw1VXIrU3hWLHhmbUVsTTB6L1FmX041RXA0NlticjdsRG8majJtU3RleVB8TnlFOFVdWWNTSi5NXStEblZMbTBMdkRdSFhfP1I9V2lqTThRZnxsTiwyMDZMa11YUzYsUGFCT05kVWJVMkNdMl0tbUJ0ZXFidEo/YS15WGF1XUE4Uk5XcFcsaVgzY3ZHfDU2cmUrNTAseGthS1s5VFhJUEFYZk5paD0yUT0tT1J8KzEzd0dhc0wyM255UFNuaFNsd1pCN3BbcW9+Ukh3WmVpQ11xZjRqNW5aJTZsZy8sTDRhUnZDSS4lRWg0VjJuJkZrWkZjZj8zeA=='}]);
+_stq.push([ 'clickTrackerInit', '115049246', '0' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script></body>
+</html>
